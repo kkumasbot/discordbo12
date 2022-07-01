@@ -1,0 +1,17 @@
+{
+  "name": "moderasyonbot",
+  "version": "0.0.1",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kayra",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
